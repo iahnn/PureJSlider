@@ -1,0 +1,2 @@
+# PureJSlider
+Pure JavaScript Slider
